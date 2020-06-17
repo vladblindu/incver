@@ -1,0 +1,13 @@
+{
+  "name": "incver",
+  "version": "1.0.0",
+  "description": " Automatic version increment",
+  "preferGlobal": true,
+  "bin": {
+    "incver": "./index.js"
+  },
+  "main": "index.js",
+  "author": "Vlad Blindu",
+  "license": "MIT",
+  "private": false
+}
